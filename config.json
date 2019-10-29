@@ -1,53 +1,53 @@
 {
 	"head": {
-		"title": "一个坏掉的番茄",
-		"description": "Author:SimonMa,Category:Personal Blog",
+		"title": "Ryan Wang",
+		"description": "Ryan Wang's Home Page",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "Simon Ma",
-		"subtitle": "Front back left right end engineer",
+		"title": "Ryan Wang",
+		"subtitle": "Web Developer",
 		"enter": "enter",
 		"supportAuthor": true
 	},
 	"main": {
-		"name": "Simon Ma",
-		"signature": "Code & Input & Output",
+		"name": "Ryan Wang",
+		"signature": "Web Developer",
 		"avatar": {
-			"link": "assets/avatar.jpg",
+			"link": "https://ryanc.cc/avatar",
 			"height": "80",
 			"width": "80"
 		},
 		"ul": {
 			"whole_first": {
-				"href": "blog/",
+				"href": "https://ryanc.cc",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
 			"whole_second": {
-				"href": "about/",
+				"href": "https://ryanc.cc/s/about",
 				"icon": "xiaolian",
 				"text": "About"
 			},
 			"half_first": {
-				"href": "mailto:simon@tomotoes.com",
+				"href": "mailto:i@ryanc.cc",
 				"icon": "email",
 				"text": "Contact me"
 			},
 			"quarter_first": {
-				"href": "assets/wechat.jpg",
+				"href": "https://cdn.ryanc.cc/img/blog/thumbnails/9414be9256193229bc18b726e82ab15c.jpg",
 				"icon": "wechat",
 				"height": "95",
 				"width": "95",
 				"text": "Wechat"
 			},
 			"quarter_second": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/ruibaby",
 				"icon": "github",
 				"text": "Github"
 			},
 			"quarter_third": {
-				"href": "https://twitter.com/amSimonMa",
+				"href": "https://twitter.com/slpwry",
 				"icon": "twitter",
 				"text": "Twitter"
 			},
